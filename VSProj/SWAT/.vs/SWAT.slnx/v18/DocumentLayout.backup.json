@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SWAT\\VSProj\\SWAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\cli_pmeas.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\proc_date_time.f90||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\main.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\proc_bsn.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\input_file_module.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\cli_petmeas.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\climate_module.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\basin_read_objs.f90||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\basin_read_cc.f90||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C18AB04-A77A-939E-EE31-5B88FCEBEBD9}|SWAT\\SWAT.vfproj|d:\\swat\\src_github_repository\\src\\basin_module.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "proc_date_time.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\proc_date_time.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\proc_date_time.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\proc_date_time.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\proc_date_time.f90",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-10T18:47:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input_file_module.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\input_file_module.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\input_file_module.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\input_file_module.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\input_file_module.f90",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-10T17:04:33.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "climate_module.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\climate_module.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\climate_module.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\climate_module.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\climate_module.f90",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-10T17:03:59.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cli_petmeas.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\cli_petmeas.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\cli_petmeas.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\cli_petmeas.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\cli_petmeas.f90",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAywIsAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-10T17:02:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cli_pmeas.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\cli_pmeas.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\cli_pmeas.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\cli_pmeas.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\cli_pmeas.f90",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFkAAAAMAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-10T17:01:36.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "basin_read_objs.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\basin_read_objs.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\basin_read_objs.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\basin_read_objs.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\basin_read_objs.f90",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBsAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-10T16:41:30.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\main.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\main.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\main.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\main.f90",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-07T21:51:18.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "basin_module.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\basin_module.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\basin_module.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\basin_module.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\basin_module.f90",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-10T16:00:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "basin_read_cc.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\basin_read_cc.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\basin_read_cc.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\basin_read_cc.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\basin_read_cc.f90",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-10T15:57:00.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "proc_bsn.f90",
+              "DocumentMoniker": "D:\\SWAT\\SRC_GitHub_Repository\\src\\proc_bsn.f90",
+              "RelativeDocumentMoniker": "..\\..\\SRC_GitHub_Repository\\src\\proc_bsn.f90",
+              "ToolTip": "D:\\SWAT\\SRC_GitHub_Repository\\src\\proc_bsn.f90",
+              "RelativeToolTip": "..\\..\\SRC_GitHub_Repository\\src\\proc_bsn.f90",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPxZJBDsQgCEU/sytHM57Cg/UUpEfDpbPSgjVtmc28lZKfJwSptYYOEY2zRVXPkIG3DWQFtdZlEAAO3ucSkparIOfsQgAgIjGBiLggTAdJi6t/3O0FB\u002B9DxswUFsyEBUmLGyMs6DAzISKYX\u002B68FnTmNYcFM/8XLH/iEyIytnAR2OAdS8EvfAEh4EkdDLYrMwAAAABJRU5ErkJgggAAAAAAAAAAAA==",
+              "WhenOpened": "2026-07-10T15:02:38.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

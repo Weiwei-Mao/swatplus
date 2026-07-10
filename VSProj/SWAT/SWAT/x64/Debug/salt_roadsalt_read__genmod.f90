@@ -1,0 +1,9 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Fri Jul 10 09:00:40 2026
+        ! This source file is for reference only and may not completely
+        ! represent the generated interface used by the compiler.
+        MODULE SALT_ROADSALT_READ__genmod
+          INTERFACE 
+            SUBROUTINE SALT_ROADSALT_READ
+            END SUBROUTINE SALT_ROADSALT_READ
+          END INTERFACE 
+        END MODULE SALT_ROADSALT_READ__genmod
